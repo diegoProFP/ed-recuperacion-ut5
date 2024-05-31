@@ -57,7 +57,7 @@ public class SuscripcionNetflix {
 		return redondearDoubleDosDecimales(Constantes.PRECIO_NETFLIX_TOTAL / this.numPerfiles);
 	}
 	/**
-	 * Devuelve el numero redondeado
+	 * Devuelve el numero  redondeado
 	 * @param numero
 	 * @return
 	 */
